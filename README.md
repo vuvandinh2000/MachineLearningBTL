@@ -11,11 +11,9 @@ git clone https://github.com/vuvandinh2000/MachineLearningBTL.git
 3. Open terminal and run command:
 ```
 jupyter notebook
-}
 ```
 or
 ```
 jupyter lab
-}
 ```
 4. Direct path to this code and run.
